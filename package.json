@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "dennisrijsdijk",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "devDependencies": {
     "typescript": "^5.3.3"
   },
