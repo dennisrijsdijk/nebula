@@ -1,0 +1,30 @@
+{
+  "name": "@dennisrijsdijk/nebula",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for the Starbreeze Nebula API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennisrijsdijk/nebula.git"
+  },
+  "keywords": [],
+  "author": "dennisrijsdijk",
+  "license": "GPLv3",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/dennisrijsdijk/nebula/issues"
+  },
+  "homepage": "https://github.com/dennisrijsdijk/nebula",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
