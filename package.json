@@ -23,6 +23,7 @@
   "author": "dennisrijsdijk",
   "license": "GPL-3.0",
   "devDependencies": {
+    "@types/node": "^18.19.7",
     "typescript": "^5.3.3"
   },
   "bugs": {
@@ -30,6 +31,9 @@
   },
   "homepage": "https://github.com/dennisrijsdijk/nebula",
   "dependencies": {
-    "axios": "^1.6.5"
+    "form-data": "^4.0.0"
+  },
+  "volta": {
+    "node": "18.19.0"
   }
 }
