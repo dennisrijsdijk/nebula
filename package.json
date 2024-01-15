@@ -14,7 +14,12 @@
     "type": "git",
     "url": "https://github.com/dennisrijsdijk/nebula.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Starbreeze",
+    "PaydayGame",
+    "Payday 3",
+    "Starbreeze Nebula"
+  ],
   "author": "dennisrijsdijk",
   "license": "GPL-3.0",
   "devDependencies": {
